@@ -211,4 +211,5 @@ cursor: pointer;
   font-size: 26px;
   line-height: 1.19;
   color: var(--accent-color-text)
+  text-decoration: none;
 }
