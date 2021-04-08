@@ -204,3 +204,11 @@ cursor: pointer;
   line-height: 1.71;
   color: var(--accent-color);
 }
+
+.link-logo{
+  font-family: Raleway;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 1.19;
+  color: var(--accent-color-text)
+}
