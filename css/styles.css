@@ -113,12 +113,7 @@ color:var(--accent-color-text)
 
 .filter-button:hover,
 .filter-button:focus{
-font-weight: 500;
-font-size: 16px;
-line-height: 1.63;
-text-align: center;
 color: var(--accent-color);
-cursor: pointer;
 }
 
 .projects{
@@ -147,12 +142,6 @@ cursor: pointer;
 
 .link.pages:hover,
 .link.pages:focus{
-  font-family: Roboto;
-  font-style: normal;
-  font-weight: 500;
-  font-size: 14px;
-  line-height: 1.43;
-  letter-spacing: 0.02em;
   color: var(--accent-color-text);
 }
 
@@ -163,17 +152,12 @@ cursor: pointer;
   font-size: 14px;
   line-height: 1.43;
   letter-spacing: 0.02em;
-  color: var(--main-text-color)
+  color: var(--main-text-color);
+  text-decoration: none;
 }
 
 .link-top:hover,
 .link-top:focus{
-  font-family: Roboto;
-  font-style: normal;
-  font-weight: 500;
-  font-size: 14px;
-  line-height: 1.43;
-  letter-spacing: 0.02em;
   color: var(--accent-color-text);
 
 }
@@ -185,24 +169,19 @@ cursor: pointer;
   font-size: 14px;
   line-height: 1.71;
   color: rgba(255, 255, 255, 0.6);
+  text-decoration: none;
 
 }
 
 .link-bottom:hover,
 .link-bottom:focus{
-  font-family: Roboto;
-  font-style: normal;
-  font-weight: 500;
-  font-size: 14px;
-  line-height: 1.43;
-  letter-spacing: 0.02em;
   color: var(--accent-color-text);  
 }
 
 .map-link{
-  font-size: 14px;
-  line-height: 1.71;
-  color: var(--accent-color);
+font-size: 14px;
+line-height: 1.71;
+color: var(--accent-color);
 }
 
 .link-logo{
